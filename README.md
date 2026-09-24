@@ -1,0 +1,6 @@
+# Quetzalli Pet Shop
+
+Catálogo y panel de administración para perros, gatos y aves.
+
+## Vercel
+Configura `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `ADMIN_EMAIL` y `WHATSAPP_NUMBER`.
